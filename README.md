@@ -8,7 +8,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
-Now, that we've installed osTicket and we're ready to do some post-installation. First, we're going to create a new role. On the admin panel, go to Agents->Roles-> add new role. For this role, check all the permissions. Next, add a department and name it "System Administrators".
+Now that we've installed osTicket, we're ready to do some post-installation! First, we're going to create a new role. On the admin panel, go to Agents->Roles-> add new role. For this role, check all the permissions. Next, add a department and name it "System Administrators".
 <p>
 <img src="https://imgur.com/DnKOZL6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
